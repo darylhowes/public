@@ -11,7 +11,7 @@ Output to a file called AVG-results.txt the max from each column and get the ave
 
 
 
-## 2.3. Next Blocks:
+## 2.3. Next:
 Some tasks to do:
 
 1. 
